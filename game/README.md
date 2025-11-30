@@ -1,16 +1,30 @@
-# React + Vite
+# Interactive Lottery Game 🎰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Experience the thrill of winning with this **interactive web-based Lottery Game**! Users can purchase tickets, test their luck, and see instant results in a fun and engaging way. Built with **HTML, CSS, and * React*, this project highlights **dynamic DOM manipulation, game logic, and seamless user interactions**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features ✨
 
-## React Compiler
+- **Ticket Purchase:** Buy up to 6 tickets per game and increase your chances of winning.  
+- **Win/Lose Feedback:** Instant messages celebrate your wins or encourage you to try again.  
+- **Restart Game:** Reset the game at any time to enjoy endless fun.  
+- **Interactive UI:** Clean, responsive, and intuitive design suitable for all devices.  
+- **Attempts Counter:** Keep track of how many attempts you’ve made for better engagement.  
+- **Fun & Engaging:** Perfect for practicing JavaScript, UI/UX, and game mechanics.  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Screenshots 🖼️
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Lottery Game Screenshot 1](Screenshot1.png)  
+![Lottery Game Screenshot 2](Screenshot2.png)  
+![Lottery Game Screenshot 3](Screenshot3.png)  
+
+---
+
+## How to Use 🚀
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/YourUsername/lottery-game.git
